@@ -4,5 +4,4 @@ This was my first attempt to make a simple frontend application using HTML, CSS 
 ```
 This is a block of code
 written herefor example
-```
 
